@@ -32,7 +32,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios no
 </div>
 
 ##
-<h3 align="center">Minhas tecnologias</h3>
+<h3 align="center">Habilidades</h3>
 
 
  
