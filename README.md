@@ -9,7 +9,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios no
 
 ##
  <div style="text-align: center;" align="center">
-  <h3>* Estatísticas do GitHub *</h3>
+  <h3>* Estatísticas no GitHub *</h3>
   <br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DenisGbs&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=07e9a5&text_color=FFF&bg_color=0d1117" alt="Denis Gomes Barbosa github stats"/> 
